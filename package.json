@@ -1,0 +1,22 @@
+{
+  "name": "cmder",
+  "version": "1.0.0",
+  "description": "this is a lite version of cmder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdev06/cmder.git"
+  },
+  "keywords": [
+    "cmder"
+  ],
+  "author": "Roshan Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdev06/cmder/issues"
+  },
+  "homepage": "https://github.com/rdev06/cmder#readme"
+}
